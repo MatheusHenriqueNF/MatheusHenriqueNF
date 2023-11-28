@@ -15,4 +15,6 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   
-</div>
+</div><br/>
+
+Estudando constantemente o mundo tecnológico, buscando sempre encontrar um novo mundo ou então cria-lo! 

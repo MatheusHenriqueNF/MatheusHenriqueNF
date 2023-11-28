@@ -15,6 +15,6 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   
-</div><br/>
-
+</div>
+<img src="https://toppng.com/uploads/preview/ocket-knight-meliodas-3d-model-the-seven-deadly-sins-11563043132thhdakmamd.png"/><br/>
 Estudando constantemente o mundo tecnológico, buscando sempre encontrar um novo mundo ou então programa-lo! 

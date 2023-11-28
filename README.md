@@ -17,4 +17,4 @@
   
 </div><br/>
 
-Estudando constantemente o mundo tecnológico, buscando sempre encontrar um novo mundo ou então cria-lo! 
+Estudando constantemente o mundo tecnológico, buscando sempre encontrar um novo mundo ou então programa-lo! 

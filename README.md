@@ -2,9 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/matheus-henrique-nascimento-de-freitas-2660342a8/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusHenriqueNF)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheus.henrique26@unifesp.br)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.henrique26@unifesp.br)
 
-![MATHEUS FREITAS](https://github-readme-stats.vercel.app/api?username=MatheusHenriqueNF&show_icons=true&theme=radical)
 <img src="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/a/af/Meliodas_Anime.png/revision/latest?cb=20210209205929&path-prefix=pt-br" width="10%" height="10%"/>
 
 ## Tecnologias que eu uso para programar

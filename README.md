@@ -2,7 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus Henrique, tenho 20 anos e sou natural do São Paulo. Concluí o ensino médio no Etec Sebrae, com o curso de Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia.
+🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP
+
+📘 Formado Análise e Desenvolvimento de Sistemas - ETEC Sebrae
+
+💻 Estudando FRONT-END e BACK-AND
+
+
 
 <p align="left">
  

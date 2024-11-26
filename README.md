@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus Freitas
+# 👨🏻‍💻 Matheus Freitas
 
 **`Desenvolvedor FullStack`**
 

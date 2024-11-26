@@ -1,12 +1,12 @@
 # 👨🏻‍💻 Matheus Freitas
 
 **`Desenvolvedor FullStack`**
-
-🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP
-
-📘 Formado Análise e Desenvolvimento de Sistemas - ETEC Sebrae
-
-💻 Estudando FRONT-END e BACK-AND
+ 
+ 🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP
+ 
+ 📘 Formado Análise e Desenvolvimento de Sistemas - ETEC Sebrae
+ 
+ 💻 Estudando FRONT-END e BACK-AND
 
 
 

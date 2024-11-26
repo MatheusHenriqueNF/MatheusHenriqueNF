@@ -4,6 +4,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusHenriqueNF)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.henrique26@unifesp.br)
 
+🎓 Cursando Análise e desenvolvimento de sistemas - FIAP
+
+📘 Formado Análise e desenvolvimento de sistemas - ETEC Sebrae
+
+💻 Estudando FRONT-END e BACK-END
+
 <img src="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/a/af/Meliodas_Anime.png/revision/latest?cb=20210209205929&path-prefix=pt-br" width="10%" height="10%"/>
 
 ## Tecnologias que eu uso para programar

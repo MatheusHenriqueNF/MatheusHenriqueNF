@@ -8,9 +8,9 @@
 
 📘 Formado Análise e desenvolvimento de sistemas - ETEC Sebrae
 
-💻 Estudando FRONT-END e BACK-END
+💻 Estudando FRONT-END e BACK-END <img src="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/a/af/Meliodas_Anime.png/revision/latest?cb=20210209205929&path-prefix=pt-br" width="10%" height="10%"/>
 
-<img src="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/a/af/Meliodas_Anime.png/revision/latest?cb=20210209205929&path-prefix=pt-br" width="10%" height="10%"/>
+
 
 ## Tecnologias que eu uso para programar
 
